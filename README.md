@@ -72,3 +72,5 @@ cd server
 npm install
 npm run dev
 ```
+
+Teste aqui → [Chat App](https://react-chat-app-snbq.onrender.com/)
